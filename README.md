@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @ayaabdelay2008
+- 👋 Hi, I’m @aya abdelaty2008
 - 👀 I’m interested in C++ and python
 - 🌱 I’m currently learning web development and mobile app 
-- 😄 Pronouns: ayaabdelaty2008
-- ⚡ Fun fact: ...
+- 😄 Pronouns: she/her
 
 <!---
 ayaabdelay2008/ayaabdelay2008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
